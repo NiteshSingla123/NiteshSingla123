@@ -60,3 +60,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshsingla123&show_icons=true&locale=en" alt="niteshsingla123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshsingla123&" alt="niteshsingla123" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=NiteshSingla123&theme=redical">
